@@ -3,7 +3,7 @@
 🇰🇷 South Korean software developer with a passion for building scalable, fast, and elegant applications.
 
 🚀 Currently serving as:  
-• **CEO** of **topa**, an AI-powered book curation platform  
+• **CEO** of **zettascope Inc.**
 • **CTO** at **telegnosis Inc. (주)텔레그노시스**  
 • **Head Developer** at **YOON EDU Inc. (주)윤도영에듀**
 <br/><br/>
