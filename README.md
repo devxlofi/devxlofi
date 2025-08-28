@@ -3,8 +3,8 @@
 🇰🇷 South Korean software developer with a passion for building scalable, fast, and elegant applications.
 
 🚀 Currently serving as:  
-• **CEO** of **zettascope Inc.**
-• **CTO** at **telegnosis Inc. (주)텔레그노시스**  
+• **CEO** of **zettascope Inc.**<br/>
+• **CTO** at **telegnosis Inc. (주)텔레그노시스**<br/>
 • **Head Developer** at **YOON EDU Inc. (주)윤도영에듀**
 <br/><br/>
 
